@@ -6,6 +6,29 @@
 3. [Email Configuration](#email-configuration)
 4. [Scheduling Automated Backups](#scheduling-automated-backups)
 5. [Troubleshooting](#troubleshooting)
+6. [Screenshots](#screenshots)
+
+---
+
+## Screenshots
+
+Below are the screenshots you uploaded to the repository. If the files are in the repository root use the paths shown (spaces URL-encoded as %20). If you move them into an `images/` folder, update the paths accordingly.
+
+![Auto Backup](./auto%20backup.png)
+
+![Scheduled Automate Backup](./scheduled%20automate%20backup.png)
+
+![System Log](./system%20log.png)
+
+![Default Run](./Default%20run.png)
+
+![Scheduling Auto Backups](./scheduling%20auto%20backups.png)
+
+![System Update](./System%20update.png)
+
+![Email Not Notify](./Email%20not%20notify.png)
+
+![System Log Ends](./system%20log%20ends.png)
 
 ---
 
@@ -94,7 +117,7 @@ This will:
 - Scan system logs for errors
 - Backup security logs
 - Check folder permissions for vulnerabilities
-- Auto-fix insecure permissions
+- Auto-fix insecure permissions (only if confirmed)
 
 #### Run System Update (Requires sudo)
 ```bash
